@@ -26,6 +26,18 @@ The dashboard draws data from two primary sources:
 
 *2. MySQL Database:* Extracts Facts and Dimensions for all departments from a MySQL database.
 
+## Skills Learned
+
+- Power BI data modeling
+- DAX calculations
+- Compelling visualization techniques
+- Data interpretation
+- Dashboard design principles
+- User-centric design
+- Stakeholder communication
+- File size optimization using DAX Studio
+- Data integration from various sources like Excel/CSV files, MySQL database, etc.
+
 
 
 
